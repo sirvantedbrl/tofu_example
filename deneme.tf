@@ -1,0 +1,1 @@
+resource "calisidenemelermu" "atlantis_for_tofu" {}
