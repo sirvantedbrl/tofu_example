@@ -1,1 +1,1 @@
-resource "null_resource" "atlantis_for_tofu" {}
+resource "calisiyor_mu" "atlantis_for_tofu" {}
