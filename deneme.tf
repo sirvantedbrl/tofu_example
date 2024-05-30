@@ -1,1 +1,1 @@
-resource "calisiyor_mu" "atlantis_for_tofu" {}
+resource "calisiyor_nvgrmu" "atlantis_for_tofu" {}
