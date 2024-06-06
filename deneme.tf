@@ -1,1 +1,0 @@
-resource "calisiyor_mu" "atlantis_for_tofu" {}
